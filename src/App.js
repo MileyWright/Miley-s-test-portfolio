@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Mileys Project
+          Mileys Portfolio
         </a>
       </header>
     </div>
